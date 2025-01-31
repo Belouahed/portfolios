@@ -39,7 +39,8 @@
                 "en": {"title": "Send me a **message**"},
                 "es": {"title": "Envíame un **mensaje**"},
                 "fr": {"title": "Envoyez-moi un **message**"},
-                "ko": {"title": "**메시지를** 보내주세요"}
+                "ko": {"title": "**메시지를** 보내주세요"},
+                "ar": {"title": "أرسل لي **رسالة**"}
             },
 
             "items": null
@@ -55,14 +56,16 @@
                 "en": {"title": "Or if you **prefer**..."},
                 "es": {"title": "O si **prefieres**..."},
                 "fr": {"title": "Ou si vous **préférez**..."},
-                "ko": {"title": "또는 **원하시면**..."}
+                "ko": {"title": "또는 **원하시면**..."},
+                "ar": {"title": "أو إذا كنت **تفضل**..."}
+
             },
 
             "items": [
                 {
-                    "value": "+1 (123) 456-7890",
+                    "value": "+212 7 15 35 27 20",
                     "links": [
-                        {"href": "tel:11234567890"}
+                        {"href": "tel:+212 7 15 35 27 20"}
                     ],
                     "icon": {
                         "img": null,
@@ -73,7 +76,9 @@
                         "en": {"title": "Phone"},
                         "es": {"title": "Teléfono"},
                         "fr": {"title": "Téléphone"},
-                        "ko": {"title": "전화"}
+                        "ko": {"title": "전화"},
+                        "ar": {"title": "الهاتف"}
+
                     }
                 },
 
@@ -94,7 +99,7 @@
                 },
 
                 {
-                    "value": "@markchoi",
+                    "value": "@belouahed",
                     "links": [
                         {"href": "https://linkedin.com"}
                     ],
@@ -109,7 +114,7 @@
                 },
 
                 {
-                    "value": "Mark Choi",
+                    "value": "Belouahed Noureddine",
                     "links": [
                         {"href": "https://facebook.com"}
                     ],
@@ -124,7 +129,7 @@
                 },
 
                 {
-                    "value": "@markchoi",
+                    "value": "@belouahed",
                     "links": [
                         {"href": "https://instagram.com"}
                     ],
@@ -139,7 +144,7 @@
                 },
 
                 {
-                    "value": "@markchoi",
+                    "value": "@belouahed",
                     "links": [
                         {"href": "https://tiktok.com"}
                     ],

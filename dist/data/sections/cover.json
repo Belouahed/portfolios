@@ -48,7 +48,8 @@
                 "en": {},
                 "es": {},
                 "fr": {},
-                "ko": {}
+                "ko": {},
+                "ar": {}
             },
 
             "items": [
@@ -118,8 +119,9 @@
                         "ko": {"text": "<p>저는 Laravel 백엔드 개발을 전문으로 하며 <b>10년 이상의</b> 경력을 보유하고 있습니다. 또한 React를 사용한 프론트엔드 개발 경험도 갖추고 있습니다. 추가적으로 C++, C#, Python을 활용한 프로덕션 환경 경험도 있습니다.</p><p>이 다양한 배경 덕분에 프로젝트의 다양한 요구에 유연하게 대처할 수 있습니다.</p><p><b>당신과 협업</b>하기를 기대하고 있습니다!</p>"
                     },
                     "ar": {
-            "text": "<p>أنا مطور Laravel متخصص في تطوير الخلفية مع <b>أكثر من عشر سنوات</b> من الخبرة. لدي أيضًا خبرة في تطوير الواجهة الأمامية باستخدام React. بالإضافة إلى ذلك، لدي خبرة عملية في بيئات الإنتاج باستخدام C++ و C# و Python.</p><p>هذا التنوع في الخبرات يمنحني القدرة على التكيف مع مجموعة واسعة من احتياجات المشاريع.</p><p>أتطلع إلى التعاون <b>معك!</b></p>"
-        }
+    "text": "<div dir='rtl' style='text-align: right;'><p>أنا مطور Laravel متخصص في تطوير الخلفية مع <b>أكثر من  سنة</b> من الخبرة. لدي أيضًا خبرة في تطوير الواجهة الأمامية باستخدام React. بالإضافة إلى ذلك، لدي خبرة عملية في بيئات الإنتاج باستخدام C++ و C# و Python.</p><p>هذا التنوع في الخبرات يمنحني القدرة على التكيف مع مجموعة واسعة من احتياجات المشاريع.</p><p>أتطلع إلى التعاون <b>معك!</b></p></div>"
+}
+
                     }
                 }
             ]
@@ -151,20 +153,24 @@
                     "locales": {
                         "en": {
                             "info": "CEO at <b>SalesForce</b>",
-                            "text": "Working with Mark was a transformative experience. His programming skills and dedication not only improved our project but also inspired the entire team."
+                            "text": "Working with noureddine was a transformative experience. His programming skills and dedication not only improved our project but also inspired the entire team."
                         },
                         "es": {
                             "info": "CEO en <b>SalesForce</b>",
-                            "text": "Trabajar con Mark fue una experiencia transformadora. Sus habilidades de programación y dedicación no solo mejoraron nuestro proyecto, sino que también inspiraron a todo el equipo."
+                            "text": "Trabajar con noureddine fue una experiencia transformadora. Sus habilidades de programación y dedicación no solo mejoraron nuestro proyecto, sino que también inspiraron a todo el equipo."
                         },
                         "fr": {
                             "info": "PDG de <b>SalesForce</b>",
-                            "text": "Travailler avec Mark a été une expérience transformative. Ses compétences en programmation et son dévouement ont non seulement amélioré notre projet, mais ont également inspiré toute l'équipe."
+                            "text": "Travailler avec noureddine a été une expérience transformative. Ses compétences en programmation et son dévouement ont non seulement amélioré notre projet, mais ont également inspiré toute l'équipe."
                         },
                         "ko": {
                             "info": "세일즈포스  CEO",
-                            "text": "Mark와의 협업은 변화를 가져오는 경험이었습니다. 그의 프로그래밍 기술과 헌신은 우리 프로젝트를 개선할 뿐만 아니라 팀 전체에 영감을 주었습니다."
-                        }
+                            "text": "noureddine와의 협업은 변화를 가져오는 경험이었습니다. 그의 프로그래밍 기술과 헌신은 우리 프로젝트를 개선할 뿐만 아니라 팀 전체에 영감을 주었습니다."
+                        },
+                        "ar": {
+        "info": "الرئيس التنفيذي في <b>SalesForce</b>",
+        "text": "كان العمل مع نور الدين تجربة تحولية. مهاراته في البرمجة وتفانيه لم تحسن مشروعنا فحسب، بل ألهمت الفريق بأكمله أيضًا."
+    }
                     }
                 },
 
@@ -181,20 +187,24 @@
                     "locales": {
                         "en": {
                             "info": "Lead Developer at <b>GitHub</b>",
-                            "text": "Having Mark on our team was an invaluable asset. His deep programming insights and mentorship not only elevated our projects but also empowered us to tackle every challenge with confidence and creativity."
+                            "text": "Having noureddine on our team was an invaluable asset. His deep programming insights and mentorship not only elevated our projects but also empowered us to tackle every challenge with confidence and creativity."
                         },
                         "es": {
                             "info": "Desarrollador Principal en <b>GitHub </b>",
-                            "text": "Tener a Mark en nuestro equipo fue un activo invaluable. Sus profundas ideas sobre programación y su mentoría no solo elevaron nuestros proyectos, sino que también nos empoderaron para enfrentar cada desafío con confianza."
+                            "text": "Tener a noureddine en nuestro equipo fue un activo invaluable. Sus profundas ideas sobre programación y su mentoría no solo elevaron nuestros proyectos, sino que también nos empoderaron para enfrentar cada desafío con confianza."
                         },
                         "fr": {
                             "info": "Développeur Principal chez <b>GitHub </b>",
-                            "text": "Avoir Mark dans notre équipe a été un atout inestimable. Ses connaissances approfondies en programmation et son mentorat ont non seulement élevé nos projets, mais nous ont également permis de relever chaque défi avec confiance."
+                            "text": "Avoir noureddine dans notre équipe a été un atout inestimable. Ses connaissances approfondies en programmation et son mentorat ont non seulement élevé nos projets, mais nous ont également permis de relever chaque défi avec confiance."
                         },
                         "ko": {
                             "info": "<b>GitHub</b> 수석 개발자",
-                            "text": "우리 팀에 Mark가 있다는 것은 귀중한 자산이었습니다. 그의 깊은 프로그래밍 통찰력과 멘토링은 우리의 프로젝트를 높이고 모든 도전에 자신감과 창의성으로 대응할 수 있게 해주었습니다."
-                        }
+                            "text": "우리 팀에 noureddine가 있다는 것은 귀중한 자산이었습니다. 그의 깊은 프로그래밍 통찰력과 멘토링은 우리의 프로젝트를 높이고 모든 도전에 자신감과 창의성으로 대응할 수 있게 해주었습니다."
+                        },
+                        "ar": {
+        "info": "المطور الرئيسي في <b>GitHub</b>",
+        "text": "كان وجود نور الدين في فريقنا بمثابة إضافة لا تقدر بثمن. رؤاه العميقة في البرمجة وإرشاده لم ترفع مستوى مشاريعنا فحسب، بل مكّنتنا أيضًا من مواجهة كل تحدٍ بثقة وإبداع."
+    }
                     }
                 },
 
@@ -211,20 +221,24 @@
                     "locales": {
                         "en": {
                             "info": "Managing Director at <b>Dingga</b>",
-                            "text": "Collaborating with Mark was a game changer for our development process. His expertise and problem-solving abilities were invaluable to our success."
+                            "text": "Collaborating with noureddine was a game changer for our development process. His expertise and problem-solving abilities were invaluable to our success."
                         },
                         "es": {
                             "info": "Directora General en <b>Dingga</b>",
-                            "text": "Colaborar con Mark fue un cambio de juego para nuestro proceso de desarrollo. Su experiencia y habilidades para resolver problemas fueron invaluables para nuestro éxito."
+                            "text": "Colaborar con noureddine fue un cambio de juego para nuestro proceso de desarrollo. Su experiencia y habilidades para resolver problemas fueron invaluables para nuestro éxito."
                         },
                         "fr": {
                             "info": "Directrice Générale chez <b>Dingga</b>",
-                            "text": "Collaborer avec Mark a été un tournant pour notre processus de développement. Son expertise et ses capacités à résoudre des problèmes ont été inestimables pour notre succès."
+                            "text": "Collaborer avec noureddine a été un tournant pour notre processus de développement. Son expertise et ses capacités à résoudre des problèmes ont été inestimables pour notre succès."
                         },
                         "ko": {
                             "info": "딩가 전무이사",
-                            "text": "Mark와의 협업은 우리의 개발 프로세스에 혁신을 가져왔습니다. 그의 전문성과 문제 해결 능력은 우리의 성공에 없어서는 안 될 요소였습니다."
-                        }
+                            "text": "noureddine와의 협업은 우리의 개발 프로세스에 혁신을 가져왔습니다. 그의 전문성과 문제 해결 능력은 우리의 성공에 없어서는 안 될 요소였습니다."
+                        },
+                        "ar": {
+        "info": "المدير العام في <b>Dingga</b>",
+        "text": "كان التعاون مع نور الدين نقطة تحول في عملية التطوير لدينا. خبرته وقدرته على حل المشكلات كانت لا تقدر بثمن لنجاحنا."
+    }
                     }
                 },
 
@@ -241,20 +255,24 @@
                     "locales": {
                         "en": {
                             "info": "Creative Director at <b>Dribbble</b>",
-                            "text": "Mark's attention to detail and his innovative thinking brought a fresh perspective to our design process. He truly elevated our team's work and helped us deliver results beyond expectations."
+                            "text": "noureddine 's attention to detail and his innovative thinking brought a fresh perspective to our design process. He truly elevated our team's work and helped us deliver results beyond expectations."
                         },
                         "es": {
                             "info": "Directora Creativa en <b>Dribbble</b>",
-                            "text": "La atención al detalle de Mark y su pensamiento innovador aportaron una nueva perspectiva a nuestro proceso de diseño. Realmente elevó el trabajo de nuestro equipo y nos ayudó a ofrecer resultados más allá de lo esperado."
+                            "text": "La atención al detalle de noureddine  y su pensamiento innovador aportaron una nueva perspectiva a nuestro proceso de diseño. Realmente elevó el trabajo de nuestro equipo y nos ayudó a ofrecer resultados más allá de lo esperado."
                         },
                         "fr": {
                             "info": "Directrice Créative chez <b>Dribbble</b>",
-                            "text": "L'attention aux détails de Mark et sa pensée innovante ont apporté une nouvelle perspective à notre processus de design. Il a véritablement élevé le travail de notre équipe et nous a aidés à livrer des résultats au-delà des attentes."
+                            "text": "L'attention aux détails de noureddine  et sa pensée innovante ont apporté une nouvelle perspective à notre processus de design. Il a véritablement élevé le travail de notre équipe et nous a aidés à livrer des résultats au-delà des attentes."
                         },
                         "ko": {
                             "info": "<b>Dribbble</b> 크리에이티브 디렉터",
-                            "text": "Mark의 세부 사항에 대한 주의와 혁신적인 사고는 우리 디자인 프로세스에 신선한 관점을 제공했습니다. 그는 팀의 작업을 향상시키고 기대 이상의 결과를 제공하는 데 큰 도움을 주었습니다."
-                        }
+                            "text": "noureddine 의 세부 사항에 대한 주의와 혁신적인 사고는 우리 디자인 프로세스에 신선한 관점을 제공했습니다. 그는 팀의 작업을 향상시키고 기대 이상의 결과를 제공하는 데 큰 도움을 주었습니다."
+                        },
+                        "ar": {
+        "info": "المدير الإبداعي في <b>Dribbble</b>",
+        "text": "انتباه نور الدين للتفاصيل وتفكيره الإبداعي جلبا منظورًا جديدًا لعملية التصميم لدينا. لقد رفع مستوى عمل فريقنا حقًا وساعدنا على تحقيق نتائج تفوق التوقعات."
+    }
                     }
                 }
             ]
@@ -270,7 +288,8 @@
                 "en": {"title": "Personal **interests**"},
                 "es": { "title": "Intereses **personales**" },
                 "fr": { "title": "Intérêts **personnels** " },
-                "ko": { "title": "개인 **관심사**" }
+                "ko": { "title": "개인 **관심사**" },
+                "ar": {"title": "الاهتمامات **الشخصية**"}
             },
 
             "items": [
@@ -297,7 +316,11 @@
                         "ko": {
                             "title": "기타 연주",
                             "info": "다양한 장르를 탐험하고 기술을 향상시키기."
-                        }
+                        },
+                        "ar": {
+        "title": "عزف الجيتار",
+        "info": "استكشاف أنماط موسيقية مختلفة وتحسين مهاراتي."
+    }
                     }
                 },
 
@@ -324,7 +347,11 @@
                         "ko": {
                             "title": "AI 영상 편집",
                             "info": "AI 도구를 사용하여 내 영상을 향상시키는 방법 배우기."
-                        }
+                        },
+                        "ar": {
+        "title": "تحرير الفيديو بالذكاء الاصطناعي",
+        "info": "تعلم استخدام أدوات الذكاء الاصطناعي لتحسين مقاطع الفيديو الخاصة بي."
+    }
                     }
                 },
 
@@ -351,7 +378,11 @@
                         "ko": {
                             "title": "일러스트레이션",
                             "info": "디지털 아트를 연습하고 새로운 스타일을 탐험하기."
-                        }
+                        },
+                        "ar": {
+        "title": "الرسم التوضيحي",
+        "info": "ممارسة الفن الرقمي واستكشاف أنماط جديدة."
+    }
                     }
                 },
 
@@ -378,7 +409,11 @@
                         "ko": {
                             "title": "투자",
                             "info": "주식과 개인 재정의 기초 배우기."
-                        }
+                        },
+                        "ar": {
+        "title": "الاستثمار",
+        "info": "تعلم أساسيات الأسهم والتمويل الشخصي."
+    }
                     }
                 },
 
@@ -405,7 +440,11 @@
                         "ko": {
                             "title": "UX 디자인",
                             "info": "사용자 경험 원칙을 공부하기."
-                        }
+                        },
+                        "ar": {
+        "title": "تصميم تجربة المستخدم",
+        "info": "دراسة مبادئ تجربة المستخدم."
+    }
                     }
                 },
 
@@ -432,7 +471,11 @@
                         "ko": {
                             "title": "사진 편집",
                             "info": "창의적인 편집 기술을 통해 사진을 향상시키기."
-                        }
+                        },
+                        "ar": {
+        "title": "تحرير الصور",
+        "info": "تحسين الصور من خلال تقنيات تحرير إبداعية."
+    }
                     }
                 }
             ]

@@ -160,17 +160,17 @@
             "yes": "예"
         },
         "ar": {
-    "about": "من أنا",
-    "all_categories": "الكل",
-    "cancel": "إلغاء",
-    "close": "إغلاق",
-    "email": "البريد الإلكتروني",
-    "message_sent_success": "تم إرسال رسالتك بنجاح! سأرد عليك قريباً.",
-    "message_sent_error": "حدث خطأ أثناء إرسال رسالتك.",
-    "see_more": "المزيد",
-    "theme_dark": "الوضع الليلي",
-    "theme_light": "الوضع النهاري"
-}
-
+            "about": "من أنا",
+            "all_categories": "الكل",
+            "cancel": "إلغاء",
+            "close": "إغلاق",
+            "email": "البريد الإلكتروني",
+            "message_sent_success": "تم إرسال رسالتك بنجاح! سأرد عليك قريباً.",
+            "message_sent_error": "حدث خطأ أثناء إرسال رسالتك.",
+            "see_more": "المزيد",
+            "theme_dark": "الوضع الليلي",
+            "theme_light": "الوضع النهاري"
+        }
+        
     }
 }

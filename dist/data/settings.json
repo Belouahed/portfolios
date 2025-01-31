@@ -10,8 +10,8 @@
     },
 
     "profile": {
-        "name": "Belouahed Noureddine",
-        "stylizedName": "<strong>Belouahed **Noureddine**</strong>",
+        "name": "BELOUAHED NOUREDDINE",
+        "stylizedName": "<strong>**NOUREDDINE**</strong>",
         "logoUrl": "images/svg/logo2.webp",
         "profilePictureUrl": "images/pictures/logo.webp",
 
@@ -75,10 +75,10 @@
             "flagUrl": "images/flags/ko.png"
         },
         {
-            "name": "العربية",
-            "id": "ar",
-            "flagUrl": "images/flags/ar.png"
-        }
+        "name": "العربية",
+        "id": "ar",
+        "flagUrl": "images/flags/ma.png"
+    }
     ],
 
     "emailjs": {
